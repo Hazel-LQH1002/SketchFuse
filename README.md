@@ -1,4 +1,13 @@
 # SketchFuse
+<p align="center">
+  <img src="resultgif.gif" width="250"/>
+</p>
+
+<p align="center">
+  <img src="result.png" />
+  <img src="result2.png" />
+</p>
+
 ![Results from Stable Diffusion inpainting, Repaint, ControlNet and our methods](result.png)
 ![Results from Stable Diffusion inpainting, Repaint, ControlNet and our methods](result2.png)
 Inpainting is a process used to complete missing or corrupted parts of images. Many current inpainting methods do not allow additional user input except masks, causing a loss of generation control, while those using text prompts
